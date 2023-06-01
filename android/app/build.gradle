@@ -48,7 +48,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "coukgraciousstore.greanmart"
+        applicationId "co.uk/api/v1graciousstore.greanmart"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-build-configuration.
         minSdkVersion 21
