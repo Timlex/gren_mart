@@ -1,6 +1,6 @@
 {
-    "name": "gren_mart",
-    "short_name": "gren_mart",
+    "name": "new_project",
+    "short_name": "new_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
