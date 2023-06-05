@@ -1,4 +1,4 @@
-# new_project
+# gracious_store
 
 A new Flutter project.
 
